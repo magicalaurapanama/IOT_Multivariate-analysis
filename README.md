@@ -16,7 +16,7 @@ This solution implements an advanced anomaly detection system specifically desig
 - **Output**: Abnormality scores (0-100) + top 7 contributing features
 
 ## 🚀 Quick Start
-a
+
 ### Prerequisites
 ```bash
 pip install pandas numpy scikit-learn scipy matplotlib seaborn
